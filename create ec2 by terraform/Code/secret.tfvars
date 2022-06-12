@@ -1,0 +1,2 @@
+myusername = "youtusername"
+mypassword = "youtpassword"
